@@ -17,7 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhreynaldii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="muhreynaldii" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhreynaldii&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="muhreynaldii" /></p>\
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=muhreynaldii"><img alt="Muhammad Reynaldi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhreynaldii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## Connect with me:
 
