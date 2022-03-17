@@ -40,3 +40,9 @@
 
 <a href = "https://www.linkedin.com/in/muhammad-reynaldi-606a3a193/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://instagram.com/muhreynaldii"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+## Views
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=muhreynaldii&color=green&style=plastic">
+</a>
