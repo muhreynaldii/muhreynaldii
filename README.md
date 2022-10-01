@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Muhammad Reynaldi</h1>
+<h1 align="center">Hi ✌️, I'm Muhammad Reynaldi</h1>
 
 ## About Me
 
-- 🌱 I’m currently learning **Nuxt Js and Next Js**
+- 💻 I’m currently learning **Nuxt Js and Next Js**
 
-- 📫 How to reach me **reynaldi180101@gmail.com**
+- 📧 How to reach me **reynaldi180101@gmail.com**
 
 ## Badges Holopin 
 [![@muhreynaldii's Holopin board](https://holopin.io/api/user/board?user=muhreynaldii)](https://holopin.io/@muhreynaldii)
@@ -32,9 +32,10 @@
 
 ## My Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhreynaldii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="muhreynaldii" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhreynaldii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="muhreynaldii" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=muhreynaldii"><img align="center" alt="Muhammad Reynaldi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhreynaldii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=muhreynaldii"><img alt="Muhammad Reynaldi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhreynaldii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## Connect with me:
 
