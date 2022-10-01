@@ -2,9 +2,12 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **React js and Next Js**
+- 🌱 I’m currently learning **Nuxt Js and Next Js**
 
 - 📫 How to reach me **reynaldi180101@gmail.com**
+
+## Badges Holopin 
+[![@muhreynaldii's Holopin board](https://holopin.io/api/user/board?user=muhreynaldii)](https://holopin.io/@muhreynaldii)
 
 ## Languages and Tools
 
