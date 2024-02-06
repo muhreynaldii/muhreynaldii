@@ -7,7 +7,7 @@
 - 📧 How to reach me **reynaldi180101@gmail.com**
 
 ## Holopin 
-[![@muhreynaldii's Holopin board](https://holopin.io/api/user/board?user=muhreynaldii)](https://holopin.io/@muhreynaldii)
+[![An image of @muhreynaldii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhreynaldii)](https://holopin.io/@muhreynaldii)
 
 ## Languages and Tools
 
