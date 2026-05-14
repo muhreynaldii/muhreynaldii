@@ -4,11 +4,11 @@
 
 **Full Stack Web Developer**
 
-Building modern web applications with TypeScript - also experienced with WordPress & Shopify ecosystems.
+Building modern web applications with TypeScript — also experienced with WordPress & Shopify ecosystems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-reynaldi-606a3a193/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:reynaldi180101@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/muhreynaldii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-reynaldi-606a3a193/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reynaldi180101@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhreynaldii)
 
 </div>
 
@@ -22,10 +22,10 @@ Currently deepening my expertise in **Next.js** and **Nuxt** for production-grad
 
 ## What I Do
 
-- 🔹 **Full Stack Development** - End-to-end web applications with TypeScript, React/Next.js, Vue/Nuxt, and Node.js
-- 🔹 **WordPress Development** - Custom plugins, shortcodes, performance tuning, and SEO infrastructure
-- 🔹 **Shopify Development** - Theme customization and storefront development
-- 🔹 **Performance & SEO** - Caching strategies, structured data, and search optimization
+- 🔹 **Full Stack Development** — End-to-end web applications with TypeScript, React/Next.js, Vue/Nuxt, and Node.js
+- 🔹 **WordPress Development** — Custom plugins, shortcodes, performance tuning, and SEO infrastructure
+- 🔹 **Shopify Development** — Theme customization and storefront development
+- 🔹 **Performance & SEO** — Caching strategies, structured data, and search optimization
 
 ## Tech Stack
 
@@ -41,9 +41,9 @@ Currently deepening my expertise in **Next.js** and **Nuxt** for production-grad
 **Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
@@ -52,7 +52,7 @@ Currently deepening my expertise in **Next.js** and **Nuxt** for production-grad
 
 **Backend & Database**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
@@ -68,7 +68,8 @@ Currently deepening my expertise in **Next.js** and **Nuxt** for production-grad
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
 
+---
 
 <div align="center">
-  <sub>Open to collaboration and freelance opportunities - feel free to reach out.</sub>
+  <sub>Open to collaboration and freelance opportunities — feel free to reach out.</sub>
 </div>
