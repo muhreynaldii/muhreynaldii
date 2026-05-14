@@ -68,11 +68,6 @@ Currently deepening my expertise in **Next.js** and **Nuxt** for production-grad
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
 
-## Github Stats
-
-<p>&nbsp;<img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=muhreynaldii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="muhreynaldii" />
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=muhreynaldii"><img align="center" width="300" height="200" alt="Muhammad Reynaldi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhreynaldii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
 
 <div align="center">
   <sub>Open to collaboration and freelance opportunities - feel free to reach out.</sub>
