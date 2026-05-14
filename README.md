@@ -1,53 +1,79 @@
-<h1 align="center">Hi ✌️, I'm Muhammad Reynaldi</h1>
+<div align="center">
 
-## About Me
+# Muhammad Reynaldi
 
-- 💻 I’m currently learning **Nuxt Js and Next Js**
+**Full Stack Web Developer**
 
-- 📧 How to reach me **reynaldi180101@gmail.com**
+Building modern web applications with TypeScript - also experienced with WordPress & Shopify ecosystems.
 
-## Holopin 
-[![An image of @muhreynaldii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhreynaldii)](https://holopin.io/@muhreynaldii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-reynaldi-606a3a193/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:reynaldi180101@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/muhreynaldii)
 
-## Languages and Tools
+</div>
 
-<p align="left">
+---
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+## About
 
+I'm a full stack web developer focused on building reliable, maintainable web applications. My primary stack is **TypeScript** with **React/Next.js** and **Vue/Nuxt** on the frontend, paired with **Node.js** on the backend. I also work professionally with **WordPress** (custom plugin development, performance optimization) and **Shopify** for clients in e-commerce and SaaS.
+
+Currently deepening my expertise in **Next.js** and **Nuxt** for production-grade applications.
+
+## What I Do
+
+- 🔹 **Full Stack Development** - End-to-end web applications with TypeScript, React/Next.js, Vue/Nuxt, and Node.js
+- 🔹 **WordPress Development** - Custom plugins, shortcodes, performance tuning, and SEO infrastructure
+- 🔹 **Shopify Development** - Theme customization and storefront development
+- 🔹 **Performance & SEO** - Caching strategies, structured data, and search optimization
+
+## Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhreynaldii&&theme=react&hide_border=true&bg_color=0D1117" alt="muhreynaldii" /></p>
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+</p>
 
-## My Github Stats
+**Backend & Database**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
+
+**CMS & E-commerce**
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+</p>
+
+## Github Stats
 
 <p>&nbsp;<img align="center" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=muhreynaldii&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="muhreynaldii" />
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=muhreynaldii"><img align="center" width="300" height="200" alt="Muhammad Reynaldi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhreynaldii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
-
-## Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/muhammad-reynaldi-606a3a193/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://instagram.com/muhreynaldii"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-## Views
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=muhreynaldii&color=blue&style=plastic">
-</a>
+<div align="center">
+  <sub>Open to collaboration and freelance opportunities - feel free to reach out.</sub>
+</div>
