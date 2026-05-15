@@ -4,9 +4,9 @@
 
 **Full Stack Web Developer**
 
-Building modern web applications with TypeScript — also experienced with WordPress & Shopify ecosystems.
+Building modern web applications with TypeScript - also experienced with WordPress & Shopify ecosystems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-reynaldi-606a3a193/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-reynaldi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reynaldi180101@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhreynaldii)
 
@@ -22,10 +22,10 @@ Currently deepening my expertise in **Next.js** and **Nuxt** for production-grad
 
 ## What I Do
 
-- 🔹 **Full Stack Development** — End-to-end web applications with TypeScript, React/Next.js, Vue/Nuxt, and Node.js
-- 🔹 **WordPress Development** — Custom plugins, shortcodes, performance tuning, and SEO infrastructure
-- 🔹 **Shopify Development** — Theme customization and storefront development
-- 🔹 **Performance & SEO** — Caching strategies, structured data, and search optimization
+- 🔹 **Full Stack Development** - End-to-end web applications with TypeScript, React/Next.js, Vue/Nuxt, and Node.js
+- 🔹 **WordPress Development** - Custom plugins, shortcodes, performance tuning, and SEO infrastructure
+- 🔹 **Shopify Development** - Theme customization and storefront development
+- 🔹 **Performance & SEO** - Caching strategies, structured data, and search optimization
 
 ## Tech Stack
 
@@ -71,5 +71,5 @@ Currently deepening my expertise in **Next.js** and **Nuxt** for production-grad
 ---
 
 <div align="center">
-  <sub>Open to collaboration and freelance opportunities — feel free to reach out.</sub>
+  <sub>Open to collaboration and freelance opportunities - feel free to reach out.</sub>
 </div>
